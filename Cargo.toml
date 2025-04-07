@@ -3,3 +3,4 @@
 # https://doc.rust-lang.org/cargo/reference/resolver.html#resolver-versions
 ## requires Rust 1.84+
 resolver = "3"
+members = [ "microservices","restfulapi"]
